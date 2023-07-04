@@ -2,7 +2,7 @@ public class lastOccurence {
     public static void main(String[] args) {
         int[] arr = { 10, 20, 20, 20, 20, 20, 20, 30, 40, 50 };
 
-        int k = 20;
+        int k = 10;
 
         int ans = lastOccurence(arr, k);
 

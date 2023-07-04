@@ -2,7 +2,7 @@ public class frequency {
     public static void main(String[] args) {
         int[] arr = { 10, 20, 20, 20, 20, 20, 20, 30, 40, 50 };
 
-        int k = 20;
+        int k = 10;
 
         int lo = lastOccurence(arr, k);
         int fo = firstOccurence(arr, k);
